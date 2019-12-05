@@ -1,1 +1,11 @@
-\documentclass[12pt,ar4paper]{article} % 12pt = tamanho da fonte no documento inteiro, ar4paper = papel A4, Article = estilo do documento
+                                            %Comandos Globais
+\documentclass[12pt,ar4paper]{article}
+\usepackage[brazilian]{babel}
+\usepackage{amsthm,amsfonts}
+%-----------------------------------------------------------------------------------------------------------------------------------------
+                                            %Comandos Locais e Texto
+\begin{document}
+  \begin{titlepage}
+    
+  \end{titlepage}
+\end{document}
