@@ -1,1 +1,3 @@
-a
+\documentclass[12pt,ar4paper]{article}
+\usepackage[brazilian]{babel}
+\usepackage{amsthm,amsfonts}
