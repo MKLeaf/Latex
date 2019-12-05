@@ -1,4 +1,4 @@
-\documentclass[12pt,ar4paper]{article}
+\documentclass[12pt,twoside,ar4paper]{article}
 \usepackage[brazilian]{babel}
 \usepackage{amsthm,amsfonts}
 
