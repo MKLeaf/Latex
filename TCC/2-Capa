@@ -1,5 +1,7 @@
-\begin{document}
-  \begin{titlepage}
+\begin{document} %Criacao do documento
+  \begin{titlepage} %Cria Pagina de Titulo
+    \begin{center} %Centraliza o Texto da Pagina de Titulo
     
-  \end{titlepage}
-\end{document}
+    \end{center} %Fim da Centralizacao da Pagina de Titulo
+  \end{titlepage} %Encerra Pagina de Titulo
+\end{document} %Fim do documento
