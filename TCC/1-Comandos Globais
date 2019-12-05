@@ -1,3 +1,8 @@
 \documentclass[12pt,ar4paper]{article}
 \usepackage[brazilian]{babel}
 \usepackage{amsthm,amsfonts}
+
+\topmargin 3 cm
+\evensidemargin 2 cm
+\oddsidemargin 3 cm
+\
